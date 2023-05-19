@@ -1,5 +1,5 @@
 # Phillip Mwaniki Nzuli
-I'm a software engineer based in Nairobi, Kenya, with close to a decade of experience in building software and integrating systems.
+I'm a software engineer based in Nairobi, Kenya, with over a decade of experience in building software and integrating systems.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unrealgeek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pmwaniki) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@phillipmwaniki) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/phillipmwaniki) 
